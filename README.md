@@ -9,7 +9,7 @@ How to run:
 ---------------------------------------------
 2. Unzip the zip file (if you downloaded one)
 ---------------------------------------------
-3. Open Eclipse
+3. Open Spring
 ---------------------------------------------
 4. File -> Import -> Existing Maven Project -> Navigate to the folder where you unzipped the zip
 ---------------------------------------------
