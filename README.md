@@ -15,4 +15,4 @@ How to run:
 ---------------------------------------------
 5. Select the right project
 ---------------------------------------------
-6. Right Click on the file and Run as Java Application
+6. Run as Java Application once imported
