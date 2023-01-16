@@ -4,6 +4,9 @@ Java Bootcamp SMS SBA
 @author Caleb Standridge
 @date 1/16/23
 
+**The database will be populated for you. If you have the databse you can still run it.**
+
+
 How to run:
 1. Download the zip or clone the Git repository.
 ---------------------------------------------
