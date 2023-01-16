@@ -7,6 +7,7 @@ Java Bootcamp SMS SBA
 **The database will be populated for you.** 
 **If you already have the database in Workbench you can still run it.**
 
+main() path: StandridgeSBA/StandridgeSMS/src/main/sba/App.java
 
 How to run:
 1. Download the zip or clone the Git repository.
