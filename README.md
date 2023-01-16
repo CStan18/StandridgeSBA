@@ -16,3 +16,10 @@ How to run:
 5. Select the right project
 ---------------------------------------------
 6. Run as Java Application once imported
+
+Spring may warn you there are errors, you can run anyway.
+------------
+However, if you run the tests you may need to add JUnit 4 to the build path.
+------------
+This does not happen locally, only when retrieved/cloned from GitHub.
+
