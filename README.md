@@ -27,7 +27,7 @@ How to run:
 ---------------------------------------------
 8. Spring may warn you there are errors, you can run anyway.
 ---------------------------------------------
-10. However, if you run the tests you may need to add JUnit 4 to the build path.
+10. However, if you run the tests you may need to add JUnit 4 to the build path. (Quick fixing once via right clicking on the error within the tests selecting Add JUnit 4 to build path)
 ---------------------------------------------
 12. This does not happen locally, only when retrieved/cloned from GitHub.
 
