@@ -18,9 +18,12 @@ How to run:
 ---------------------------------------------
 4. File -> Import -> Existing Maven Project -> Navigate to the folder where you unzipped the zip
 ---------------------------------------------
-5. Select the right project
+5. DB information is in hibernate.cfg.xml, please change accordingly.
+<property name="connection.url">jdbc:mariadb://localhost:3306/smsdb</property>
+<property name="connection.username">user1</property>
+<property name="connection.password">user1</property>
 ---------------------------------------------
-6. Run as Java Application once imported
+6. Run \StandridgeSMS\src\main\java\sba\App.java as Java Application
 ---------------------------------------------
 8. Spring may warn you there are errors, you can run anyway.
 ---------------------------------------------
